@@ -1,5 +1,4 @@
 # ReactSPP
-React Router &amp; CRUD SPP APP
 
 <h1>Screenshot Project<h1>
   
